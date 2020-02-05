@@ -12,7 +12,7 @@ Please write the unit tests for your solution using any of the unit testing fram
 ## How to Run
 1. Open prjoect in IDE (preferably IntelliJ)
 2. Navigate to App.java using Project Explorer
-3. Run the 
+3. Run the main method
 
 ## Highlights
 * Follows SOLID principles
